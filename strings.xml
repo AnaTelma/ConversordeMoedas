@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CONVERSOR DE MOEDAS</string>
+    <string name="pergunta">Digite o valor em Real:</string>
+    <string name="valorreal">valor em BRL</string>
+    <string name="dolar">Dólar</string>
+    <string name="euro">Euro</string>
+    <string name="valordolar">valor em USD</string>
+    <string name="valoreuro">valor em EUR</string>
+    <string name="converter">CONVERTER</string>
+    <string name="title_activity_main">Conversor de Moedas</string>
+</resources>
